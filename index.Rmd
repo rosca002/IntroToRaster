@@ -517,7 +517,7 @@ Task3: Make the temporal comparison, using the NDVI rasters with appropriate (cl
 
 ## Bonus
 
-Today there is no bonus. Instead the points for the bouns will be attributed by assessing the efficiency of using git, and the structure of the project
+Today there is no bonus task. Instead, only for this exercise, the 2 points you would normally receive for doing a bonus task, will be given if you have a correct project structure and if you used git properly in this project (exercise 5: "Design a pre-processing chain to assess change in NDVI over time"). The points will be graded in accordance with the table below, and added to the total score for exercise 5 in the Bonus question section of the [Generic Rubric](https://docs.google.com/document/d/1wdqcrqh4Bt-tNwhEFRa4esq7ozwo36tfOjGmbBTK5B4/edit).
 
  &nbsp; | 0% | 50% | 100%
 ------------- | ------------- |-------------|-------------
